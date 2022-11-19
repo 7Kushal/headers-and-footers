@@ -1,0 +1,57 @@
+body{
+    background-color: white;
+}
+nav {
+  /* background-color: black; */
+  align-items:center;
+  color: white;
+  /* font-size: small; */
+  vertical-align: middle;
+ align-items: center;
+ margin-bottom: 30px;
+
+}
+a {
+    color: white;
+    border-left: 2em;
+}
+form {
+    display: flex;
+    /* float: right; */
+    position
+    : absolute;
+    right: 10px;
+
+}
+.btn{
+    margin: 0.5em;
+    height:min-content;
+    align-content:center;
+    width:fit-content;
+    word-wrap:normal;
+
+}
+input{
+    /* height:min-content; */
+    margin:auto;
+    color: white;
+    background-color: inherit;
+}
+/* .sign{
+    height: px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+} */
+.card-deck{
+    display: inline-flex;
+    align-items:center;
+    height: fit-content;
+    /* font-size: small; */
+    /* vertical-align: middle; */
+   align-items: center;
+}
+.first{
+    width: 300px;
+    margin-left: 20px;
+}
